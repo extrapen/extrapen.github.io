@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://extrapen.github.io/sitemap
+Sitemap: https://extrapen.github.io/app/sitemap
+Sitemap: https://extrapen.github.io/assets/sitemap
+Sitemap: https://extrapen.github.io/css/sitemap
+Sitemap: https://extrapen.github.io/includes/sitemap
+Sitemap: https://extrapen.github.io/item/sitemap
+Sitemap: https://extrapen.github.io/src/sitemap
